@@ -1,9 +1,9 @@
-/* .App {
-  text-align: center;
-} */
-
 .App-logo {
   height: 40vmin;
+}
+
+.home-intro {
+  max-width: 80%;
 }
 
 .App-header {
@@ -19,4 +19,37 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.book-container {
+  max-width: 80%;
+}
+
+.home-btn {
+  margin:5px 5px 5px 5px;
+}
+
+.book {
+  padding:5px 5px 20px 5px;
+  position:relative;
+  height:380px;
+}
+
+.book-img-div {
+}
+
+.book-img {
+  max-width: 200px;
+  max-height: 300px;
+  min-height: 300px;
+
+}
+
+.book-info {
+  position:absolute;
+  bottom:0;
+}
+
+.home-button-div {
+  margin:5px 0px 25px 0px;
 }
