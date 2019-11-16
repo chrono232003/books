@@ -4,7 +4,7 @@ import './App.css';
 function Genre() {
   return (
     <>
-      <p>hey hey hey</p>
+      <p>This is the Genre page.</p>
     </>
   );
 }
